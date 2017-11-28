@@ -3,5 +3,5 @@ function theBeatlesPlay(musicians, instruments) {
   for (let i = 0, l = musicians.lenth; i < 1; i++) {
     arr.push('${musicians} plays ${instruments}')
   }
-  return array
+  return arr
 }
